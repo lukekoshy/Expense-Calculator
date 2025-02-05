@@ -1,13 +1,13 @@
 # app-project
 # Expense Calculator
 
-## Description
+# Description
 The Expense Calculator is a tool designed to help individuals or businesses track and manage their expenses. It provides a simple and efficient way to record and categorize expenses, calculate totals, and generate reports.
 
 ## Purpose
 The purpose of this project is to simplify the process of expense tracking and management. By using the Expense Calculator, users can easily keep track of their spending, analyze their expenses, and make informed financial decisions.
 
-## Features
+# Features
 - Expense recording: Users can input their expenses, including the amount, date, and category.
 - Categorization: Expenses can be categorized into different categories (e.g., food, transportation, utilities) for better organization and analysis.
 - Total calculation: The Expense Calculator automatically calculates the total expenses for a given period or category.
@@ -22,7 +22,7 @@ To use the Expense Calculator, follow these steps:
 4. Generate reports: Generate reports to get an overview of your expenses and analyze spending patterns.
 5. Export data: Export your expense data in a preferred format for further analysis or record-keeping.
 
-## Example
+# Example
 Here's an example of how to use the Expense Calculator:
 
 1. Input your expenses:
@@ -57,6 +57,6 @@ Here's an example of how to use the Expense Calculator:
 Contributions to the Expense Calculator project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
 
-## Acknowledgments
+# Acknowledgments
 - The open-source community for providing valuable resources and inspiration.
 - The developers and contributors of libraries and frameworks used in this project.
